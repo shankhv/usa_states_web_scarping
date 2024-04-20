@@ -54,7 +54,7 @@ csv library in Python to create csv file of the extracted data
 2. Run the Python script `scrape_usa_states.py`:
 
     ```bash
-    python scrape_usa_states.py
+    python usa_states.py
     ```
 
 3. The script will scrape the data from the Wikipedia page and print the extracted information.
